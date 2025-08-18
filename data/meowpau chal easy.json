@@ -1,0 +1,41 @@
+{
+    "id": 95091199,
+    "name": "meowpau chal easy",
+    "author": "Me24345",
+    "creators": ["Nick24, Me24345"],
+    "verifier": "Me24345",
+    "verification": "https://www.youtube.com/watch?v=1xFzcg8btTU",
+    "percentToQualify": "100",
+    "records": [
+            {
+                "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=Ifyk_yGKTHI",
+            "percent": "100",
+            "hz": "CBF"
+            },
+            {
+                "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=RINiqPOx0II",
+            "percent": "100",
+            "hz": "CBF"
+            },
+                  {
+                "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=sYlM-U2RWxw&t=1934s",
+            "percent": "100",
+            "hz": "CBF"
+            },
+                  {
+                "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=FR2SbfRIDlk&t=333s",
+            "percent": "100",
+            "hz": "CBF"
+            },
+                  {
+                "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=a8RQvInLpkg",
+            "percent": "100",
+            "hz": "CBF"
+            }
+    ]
+}
