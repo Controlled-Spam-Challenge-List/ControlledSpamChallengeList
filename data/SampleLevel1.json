@@ -1,17 +1,14 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Verdant Flame",
+    "author": "Cookie498",
+    "creators": ["Cookie498"],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=76-P2LyoJC0",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+
         }
     ]
 }
