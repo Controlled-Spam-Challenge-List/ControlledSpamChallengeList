@@ -9,5 +9,12 @@
     "handcam": 1,
     "device": "All",
     "fps": "CBF",
-    "records": []
+    "records": [
+        {
+            "user": "looookkk",
+            "link": "https://streamable.com/wcgv16",
+            "percent": "100",
+            "hz": "CBF"
+        }
+    ]
 }
