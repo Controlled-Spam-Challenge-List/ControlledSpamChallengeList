@@ -9,5 +9,12 @@
     "handcam": 1,
     "device": "All",
     "fps": "CBF",
-    "records": []
+    "records": [
+        {
+            "user": "looookkk",
+            "link": "https://streamable.com/6p7k7j",
+            "percent": "100",
+            "hz": "CBF"
+        }
+    ]
 }
