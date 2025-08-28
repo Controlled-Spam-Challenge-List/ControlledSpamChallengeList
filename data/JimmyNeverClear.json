@@ -1,0 +1,23 @@
+{
+    "id": 108658677,
+    "name": "Jimmy Never Clear",
+    "author": "PaperGuy1",
+    "creators": ["Kiara, Me24345"],
+    "verifier": "FaizanGMD",
+    "verification": "https://youtu.be/fWhO9XmVmHQ?si=i0xeR6QG0vaopZ-Y",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/Bqa99pq-PW0?si=i0EwIrUgTom5D2IP",
+            "percent": "100",
+            "hz": "CBF"
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386437875765290/1342415914926211074",
+            "percent": "100",
+            "hz": "CBF"
+        }
+    ]
+}
