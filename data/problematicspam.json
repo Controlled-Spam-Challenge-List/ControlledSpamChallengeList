@@ -45,6 +45,12 @@
             "link": "https://www.youtube.com/watch?v=GXqUmbG6bEI",
             "percent": 100,
             "hz": "CBF"
+        },
+        {
+            "user": "LightningGMD",
+            "link": "https://youtu.be/jC4w7PlomqU",
+            "hz": "CBF",
+            "percent": 100
         }
     ]
 }
